@@ -18,7 +18,7 @@ I build responsive, user-friendly web applications using **React**, **Tailwind C
 
 ## 📈 GitHub Stats
 
-![Rodas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodasawgichew&show_icons=true&theme=radical)
+![Rodas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodas-awgichew&show_icons=true&theme=radical)
 
 ---
 
