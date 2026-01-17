@@ -75,7 +75,3 @@ Hi — I'm Rodas 👋. I build beautiful, responsive, and accessible web experie
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:61DAFB&height=120&section=footer"/>
 </p>
-
----
-
-> Tip: If your "streak" or other cards don't render, it's usually because a third-party image service is down (for example Heroku-hosted services). I switched the streak image and cards to reliable endpoints in this README. If you prefer a different style or theme (dark/light, soft colors, or a different header), tell me which vibe you want and I'll tweak it.
