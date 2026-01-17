@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top" style="padding-left:18px">
-### 👋 Hi — I'm Rodas
+ 👋 Hi — I'm Rodas
 I build polished, accessible front-end experiences with motion and attention to detail. I turn design ideas into fast, delightful, and accessible interfaces.
 
 - Primary focus: React, TypeScript, Next.js, Tailwind CSS  
@@ -27,7 +27,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## 🚀 Tech Stack — Front-end first
+## 🚀 Tech Stack 
 <p align="center">
   <!-- Primary front-end stack -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
@@ -52,7 +52,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## 🎯 Skills Snapshot (front-end-first)
+## 🎯 Skills Snapshot
 <p align="center">
   <!-- Progress-style shields to visually communicate skill focus -->
   <img src="https://img.shields.io/badge/React-90%25-0ea5e9?style=flat-square&logo=react&logoColor=000" alt="React skill"/>
@@ -74,15 +74,9 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## ✨ Featured Projects (showcase-ready)
-- Project A — Interactive UI case study (React + Next.js + Tailwind). Focus: accessible components, micro-interactions, high Lighthouse scores.
-- Project B — Dashboard prototype (React + TypeScript). Focus: design system, keyboard navigation, performance.
 
-(When you provide pinned repo names I’ll add 1-paragraph case studies and GIF demos for each.)
 
----
-
-## 📊 GitHub Activity & Stats — Blue/Black theme
+## 📊 GitHub Activity & Stats
 <p align="center">
   <!-- Styled stats card (accent blue on dark background) -->
   <img src="https://github-readme-stats.vercel.app/api?username=rodas-awgichew&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=a0aec0&bg_color=0b1220" alt="GitHub Stats"/>
