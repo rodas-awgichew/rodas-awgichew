@@ -83,10 +83,7 @@ I build polished, accessible front-end experiences with motion and attention to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodas-awgichew&layout=compact&hide_border=true&title_color=0ea5e9&text_color=a0aec0&bg_color=0b1220" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <!-- Contribution graph -->
-  <img src="https://ghchart.rshah.org/rodas-awgichew" alt="Contribution chart"/>
-</p>
+
 
 <p align="center">
   <!-- Quick link -->
