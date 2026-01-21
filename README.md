@@ -27,7 +27,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## 🚀 Tech Stack 
+ 🚀 Tech Stack 
 <p align="center">
   <!-- Primary front-end stack -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
@@ -48,7 +48,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## 🎯 Skills Snapshot
+ 🎯 Skills Snapshot
 <p align="center">
   <!-- Progress-style shields to visually communicate skill focus -->
   <img src="https://img.shields.io/badge/React-90%25-0ea5e9?style=flat-square&logo=react&logoColor=000" alt="React skill"/>
@@ -72,7 +72,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 
 
-## 📊 GitHub Activity & Stats
+ 📊 GitHub Activity & Stats
 <p align="center">
   <!-- Styled stats card (accent blue on dark background) -->
   <img src="https://github-readme-stats.vercel.app/api?username=rodas-awgichew&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=a0aec0&bg_color=0b1220" alt="GitHub Stats"/>
@@ -94,7 +94,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 ---
 
-## 📫 Connect
+ 📫 Connect
 <p align="center">
   <a href="mailto:rodasawgichew21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/rodas-awgichew-0930072ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
