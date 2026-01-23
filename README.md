@@ -71,7 +71,6 @@ I build polished, accessible front-end experiences with motion and attention to 
 ---
 
 
-
  📊 GitHub Activity & Stats
 <p align="center">
   <!-- Styled stats card (accent blue on dark background) -->
