@@ -65,7 +65,7 @@ I build polished, accessible front-end experiences with motion and attention to 
 
 - Front-end: component-driven UI, responsive layouts, accessible HTML/CSS, Tailwind CSS  
 - React: hooks, custom hooks, context, performance patterns, Next.js SSR/SSG  
-- Animations & UX: Framer Motion, CSS transitions, micro-interactions, motion that communicates meaning  
+- Animations & UX: Framer Motion, CSS transitions, micro-interactions
 - Tools: Figma, Git, Vercel
 
 ---
